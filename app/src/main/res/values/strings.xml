@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Wk 2</string>
+
     <string name="buttonA">Follow</string>
+    <string name="buttonA2">Unfollow</string>
+
     <string name="buttonB">Message</string>
     <string name="appBar">MADPractical</string>
     <string name="mainText">Hello World!</string>
